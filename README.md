@@ -14,3 +14,5 @@ Settings are saved after each change. When device is rebooted settings are resto
 All topics can be adjusted via location .h files.
 
 When all colors are set to 0 or max, PWM will be turned OFF. In every other case PWM will be ON. This is ESP8266 PWM limitation. Max can be calculated like this: period * 1000 / 45. When you change period it will chnage max.
+
+This code was tested with ESP SDK 1.4.0.
