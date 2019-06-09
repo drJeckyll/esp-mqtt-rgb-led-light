@@ -1,3 +1,7 @@
+# THIS CODE IS OBSOLETE AND WILL NOT BE UPDATED ANYMORE
+Please use new repo here: https://git.jeckyll.net/published/personal/esp8266/esp-mqtt-rgb-led-light
+
+
 # esp-mqtt-rgb-led-light
 ESP8266 MQTT control of RGB Led strip
 
